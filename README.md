@@ -1,95 +1,54 @@
-# KHAMIDOV DIGITAL STUDIO: SYSTEM CORE
+# KHAMIDOV DIGITAL STUDIO
 
 **DIGITAL SUPREMACY ENGINEERED. NO AMATEURS ALLOWED.**
 
-This is the central repository for the Khamidov Studio platform. If you are reading this, you are either a client trying to understand our stack, or an engineer attempting to contribute. 
-If you are the latter, read every single word below. We do not tolerate spaghetti code, untested commits, or "it works on my machine" excuses. 
-
-We build high-performance, massively scalable digital infrastructure.
+Welcome to the digital headquarters of **Khamidov Studio**. We don't just build websites; we engineer digital dominance. 
+If you are looking for cheap $90 templates, close this page. If you are looking for high-performance, scalable, and brutal engineering that destroys your competition, you are in the right place.
 
 ---
 
-## ⚡ 1. SYSTEM ARCHITECTURE
+## ⚡ WHAT WE DO (OUR CAPABILITIES)
 
-We do not do monolithic chaos. Our system architecture is designed for isolation, performance, and scaling.
+We solve complex business problems using raw code. No drag-and-drop builders. No bloated CMS. 
 
-```mermaid
-graph TD;
-    Client[Web Client / Browser] -->|HTTPS / WSS| Edge[Vercel Edge Network]
-    Edge --> CDN[Global CDN / Cache]
-    Edge --> SSR[Next.js App Server]
-    
-    subgraph Core Infrastructure
-        SSR --> API[Next.js API Routes]
-        SSR --> i18n[next-intl Middleware]
-    end
+### 1. Enterprise Web Architecture
+We build massive, lightning-fast platforms using **Next.js, React, and Node.js**. Whether it's a corporate portal or an intense e-commerce machine, we deliver 100/100 Lighthouse performance.
 
-    subgraph External Systems
-        API --> DB[(PostgreSQL)]
-        API --> Bot[Telegram API]
-    end
-```
+### 2. Complex Systems & Dashboards
+If it involves heavy data, strict security, and complex logic, we architect it. We build **CRMs, internal tools, and data ingestion systems** that do not crash under pressure.
+
+### 3. AI & Operational Automation
+If a human is doing a repetitive task, we replace them with code. We build **Telegram bots on steroids**, integrate AI agents, and create seamless business automation loops.
 
 ---
 
-## 📂 2. TOPOLOGY (KNOW WHERE YOU ARE)
+## 🛠 OUR TECH ARSENAL
 
-Don't drop files randomly. Respect the domain boundaries.
+We don't chase flashy trends. We use battle-tested, unbreakable tools.
 
-```text
-src/
-├── app/                  # Application routing & SSR pages (Next.js 15)
-│   ├── [locale]/         # Strict localized views
-│   └── api/              # Backend endpoints & Webhooks
-├── components/           # UI Layer (Dumb components only, no business logic)
-├── i18n/                 # Localization dictionaries and routing rules
-└── middleware.ts         # Edge middleware for auth & geo-routing
-messages/                 # Translation JSONs (en, ru, uz). Keep them alphabetized.
-```
+- **Core Frameworks:** Next.js 15, React, Node.js
+- **Languages:** TypeScript (Strict Mode), JavaScript
+- **Databases:** PostgreSQL, Supabase, Prisma
+- **Infrastructure:** Docker, Vercel Edge, AWS
+- **Styling & UI:** Tailwind CSS, Brutalist Design Systems
 
 ---
 
-## 🚀 3. BOOTSTRAPPING THE CORE (LOCAL DEV)
+## 🚀 PROVEN TRACK RECORD
 
-Do not attempt to run this without understanding your environment.
-
-### Prerequisites
-- **Node.js** >= 18.17.0 (Use nvm, don't ask us why your system Node failed)
-- **Git** (Configured with SSH, stop using HTTPS)
-
-### Ignition
-```bash
-# 1. Clone the core
-git clone git@github.com:khamidovkhusnidd1n/myservices.git
-
-# 2. Install dependencies (Strict lockfile usage)
-npm ci
-
-# 3. Ignite local environment
-npm run dev
-```
-If it crashes, check your ports. It runs on `http://localhost:3000`.
+We don't talk. We ship. 
+- **SERGAK:** Extreme cyber-security architecture.
+- **INFINITY LOFT:** Premium e-commerce designed for high-ticket conversions.
+- **UZBAMALAKA:** National institutional platforms handling massive scale.
+- **DAVOMAT CORE:** Flawless attendance and operational tracking.
 
 ---
 
-## 🛑 4. RULES OF ENGAGEMENT (CONTRIBUTING)
+## 📞 THE COMMAND CENTER
 
-If you are opening a Pull Request, abide by these rules, or your PR will be closed without a comment.
-
-1. **No "Vibe Coding":** Plan your architecture before you write a single line. 
-2. **Type Safety is Mandatory:** `any` is forbidden. If we see `//@ts-ignore` in your PR, you are out.
-3. **Commit Standards:** We use Conventional Commits. 
-   - Good: `feat(ui): implement brutalist hero section`
-   - Garbage: `fixed stuff`
-4. **Performance:** 100/100 Lighthouse score. If your code drops performance, refactor it.
-
----
-
-## 📞 5. COMMAND CENTER
-
-Forget filling out generic contact forms. We speak directly to decision-makers.
+We work directly with decision-makers. No middlemen. No generic forms. 
 
 - **Direct Line:** `+998 87 087 16 04`
-- **Secure Comms (Telegram):** [@khusniddinkhamidov](https://t.me/khusniddinkhamidov)
+- **Telegram:** [@khusniddinkhamidov](https://t.me/khusniddinkhamidov)
 
-**WE DON'T DO TEMPLATES. WE DON'T DO CHEAP. WE WRITE CODE THAT DESTROYS COMPETITION.**
+**WE DON'T DO CHEAP. WE WRITE CODE THAT PRINTS MONEY.**
