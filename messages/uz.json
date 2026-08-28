@@ -1,0 +1,46 @@
+{
+  "HomePage": {
+    "marquee": "BIZ SHABLON ISHLATMAYMIZ. BIZ ARZON ISHLAMAYMIZ. BIZ RAQOBATCHILARINGIZNI YO'Q QILUVCHI KOD YOZAMIZ. /// ",
+    "hero_title_1": "RAQAMLI",
+    "hero_title_2": "HUKMRONLIK",
+    "hero_title_3": "YARATILGAN.",
+    "hero_subtitle": "$90 lik frilanserlarni qidirishni bas qiling. Agar biznesingiz shunchaki o'yinchoq bo'lsa, bu sahifani yoping. Agar sizga haqiqiy, katta masshtabli arxitektura kerak bo'lsa, o'qishda davom eting.",
+    "tech_radar_title": "TEXNIK ARSENALIMIZ",
+    "tech_radar_subtitle": "Biz vaqtinchalik trendlar ortidan quvmaymiz. Biz yuklama ostida sinib qolmaydigan asboblar ishlatamiz.",
+    "service_1_title": "Enterprise Web",
+    "service_1_desc": "Next.js. React. Node. Katta yuklamaga chidamli infratuzilma. Biz WordPress ishlatmaymiz. Biz haqiqiy biznes uchun haqiqiy kod yozamiz.",
+    "service_2_title": "Murakkab Tizimlar",
+    "service_2_desc": "CRMlar. Boshqaruv panellari (Dashboard). Ichki vositalar. Agar gap murakkab mantiq, katta ma'lumotlar va qat'iy xavfsizlik haqida ketsa — biz quramiz.",
+    "service_3_title": "SI va Avtomatlashtirish",
+    "service_3_desc": "Super-kuchli Telegram botlar. Sun'iy Intellekt integratsiyasi. Agar qaysidir inson bir xil takroriy ishni qilayotgan bo'lsa, biz uni avtomatlashtiramiz.",
+    "contact_btn": "BIZ BILAN ISHLASH UCHUN ARIZA",
+    "projects_title": "ISBOTLANGAN KUCH",
+    "projects_subtitle": "Biz shunchaki gapirmaymiz. Biz quramiz. Mana bizning ishimiz.",
+    
+    "proj_1_title": "SERGAK / CYBER SECURITY",
+    "proj_1_desc": "Shunchalik xavfsiz va agressiv qurilganki, hattoki Google Play siyosatiga qarshi chiqdi. Biz shunchaki ilova emas, raqamli qal'alar quramiz.",
+    
+    "proj_2_title": "INFINITY LOFT / E-COMMERCE",
+    "proj_2_desc": "Loft dizaynlari uchun premium elektron tijorat maydoni. Mijozlarni xaridorga aylantirish uchun mukammal va tezkor ishlangan.",
+    
+    "proj_3_title": "EVENT CRM / DATA INGESTION",
+    "proj_3_desc": "Katta hajmdagi arizalarni uzluksiz (zero-downtime) qabul qiluvchi tizim. Katta trafik urilganda ham qotib qolmaslik uchun ishlangan.",
+    
+    "proj_4_title": "UZBAMALAKA / INSTITUTIONAL",
+    "proj_4_desc": "Milliy san'at malaka tizimini raqamlashtirish. Katta masshtab, jiddiylik va umuman xato kechirmaslik uchun qurilgan platforma.",
+    
+    "proj_5_title": "DAVOMAT / TRACKING CORE",
+    "proj_5_desc": "Davomat va operatsiyalarni nazorat qilish arxitekturasi. To'liq nazorat. Hech qanday aylanma yo'llarsiz. Operatsion hukmronlik.",
+
+    "manifesto_title": "BIZNING MANIFEST",
+    "manifesto_1": "1. BIZ KOD YOZAMIZ. HECH QANDAY TAYYOR KONSTRUKTORLAR (WIX, TILDA) YO'Q.",
+    "manifesto_2": "2. PULINGIZGA YARASHA XIZMAT OLASIZ. ARZON NARSANING OXIRI QIMMATGA TUSHADI.",
+    "manifesto_3": "3. TO'G'RIDAN-TO'G'RI ALOQA. O'RTAKASHLARSIZ.",
+    "manifesto_4": "4. BIZ TEZLIKNI SOTAMIZ. 100/100 LIGHTHOUSE YOKI HECH NARSA.",
+    "footer_title_1": "HUKMRONLIK QILISHGA",
+    "footer_title_2": "TAYYORMISIZ?",
+    "footer_subtitle": "Zerikarli formalarni unuting. Biz to'g'ridan-to'g'ri qaror qabul qiluvchilar bilan gaplashamiz. Qo'ng'iroq qiling yoki Telegramga yozing. Agar javob bermasak, demak g'oyangiz bizga qiziq emas.",
+    "contact_direct": "TO'G'RIDAN-TO'G'RI ALOQA",
+    "contact_tg": "TELEGRAM"
+  }
+}

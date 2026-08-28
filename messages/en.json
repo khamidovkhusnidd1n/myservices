@@ -1,0 +1,46 @@
+{
+  "HomePage": {
+    "marquee": "WE DON'T DO TEMPLATES. WE DON'T DO CHEAP. WE WRITE CODE THAT DESTROYS YOUR COMPETITION. /// ",
+    "hero_title_1": "DIGITAL",
+    "hero_title_2": "SUPREMACY",
+    "hero_title_3": "ENGINEERED.",
+    "hero_subtitle": "Stop looking for $90 freelancers. If your business is a joke, close this tab. If you want high-performance architecture that scales, read on.",
+    "tech_radar_title": "OUR TECH ARSENAL",
+    "tech_radar_subtitle": "We don't chase trends. We use tools that don't break under pressure.",
+    "service_1_title": "Enterprise Web",
+    "service_1_desc": "Next.js. React. Node. Highly scalable infrastructure. We don't use WordPress. We write real code for real businesses.",
+    "service_2_title": "Complex Systems",
+    "service_2_desc": "CRMs. Dashboards. Internal tools. If it involves complex logic, heavy data, and strict security, we build it.",
+    "service_3_title": "AI & Automation",
+    "service_3_desc": "Telegram bots on steroids. AI agent integration. If a human is doing repetitive work, we will automate them out of a job.",
+    "contact_btn": "APPLY TO WORK WITH US",
+    "projects_title": "PROVEN CAPABILITY",
+    "projects_subtitle": "We don't just talk. We ship. Here is what we built.",
+    
+    "proj_1_title": "SERGAK / CYBER SECURITY",
+    "proj_1_desc": "Built so secure and aggressive it challenged Play Store policies. We don't just build apps, we build digital fortresses. Security architecture at its peak.",
+    
+    "proj_2_title": "INFINITY LOFT / E-COMMERCE",
+    "proj_2_desc": "Digital storefront for physical craft. Optimized for high-ticket conversions. Fast, brutal, and designed to sell without friction.",
+    
+    "proj_3_title": "DATA INGESTION CRM",
+    "proj_3_desc": "Zero-downtime event registration and applicant processing system. Built to handle massive traffic spikes and data loads effortlessly.",
+    
+    "proj_4_title": "UZBAMALAKA / INSTITUTIONAL",
+    "proj_4_desc": "Digitizing national art qualifications. A massive platform built for scale, authority, and uncompromising reliability.",
+    
+    "proj_5_title": "DAVOMAT / TRACKING CORE",
+    "proj_5_desc": "Flawless attendance and operational tracking architecture. Absolute control. No loopholes. Pure operational dominance.",
+
+    "manifesto_title": "OUR MANIFESTO",
+    "manifesto_1": "1. WE WRITE CODE. NO DRAG AND DROP BUILDERS.",
+    "manifesto_2": "2. YOU GET WHAT YOU PAY FOR. CHEAP IS EXPENSIVE.",
+    "manifesto_3": "3. WE COMMUNICATE DIRECTLY. NO MIDDLEMEN.",
+    "manifesto_4": "4. WE SHIP PERFORMANCE. 100/100 LIGHTHOUSE OR BUST.",
+    "footer_title_1": "READY TO",
+    "footer_title_2": "DOMINATE?",
+    "footer_subtitle": "Forget forms. We deal directly with decision makers. Call or text us. If we don't answer, your idea wasn't interesting enough.",
+    "contact_direct": "DIRECT LINE",
+    "contact_tg": "TELEGRAM"
+  }
+}
